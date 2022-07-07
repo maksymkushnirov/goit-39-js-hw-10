@@ -1,3 +1,6 @@
+# goit-39-js-hw-10
+HTTP-запросы + Пагинация
+
 # Parcel boilerplate
 
 ## Скрытые файлы
